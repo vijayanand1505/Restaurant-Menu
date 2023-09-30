@@ -2,7 +2,7 @@
 
 Simple Static website to show the Restaurant menus
 
-# Que utilicé:
+# Functionalities:
 
 * useState
 * useEffect 
