@@ -1,7 +1,7 @@
 import React from "react";
 import Footer from "./Footer";
 
-const Menu = ({ items }) => {
+const Menu = ({ items }) => { 
   return (
     <div className="section-center">
       {items.map((menuItem) => {
