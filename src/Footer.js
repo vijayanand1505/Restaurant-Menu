@@ -4,7 +4,7 @@ import {
   FaLinkedin,
   FaInstagramSquare,
   FaPortrait,
-} from "react-icons/fa";
+} from "react-icons/fa"; 
 
 function Footer() {
   return (
